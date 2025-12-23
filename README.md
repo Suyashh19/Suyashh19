@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Suyash Patil  
 
-<!--
-**Suyashh19/Suyashh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Undergraduate | 💻 ML & Web Developer | 🚀 Learning by Building Real-World Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 2nd-year undergraduate in Artificial Intelligence & Machine Learning  
+- 🧠 Strong foundations in Data Structures, Machine Learning, and problem-solving  
+- 🛠️ Built hands-on ML projects including recommender systems and NLP chatbots  
+- 🌱 Currently deepening ML concepts and improving system design & deployment skills  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** C++, Python, JavaScript  
+**Machine Learning:** NumPy, Pandas, Scikit-learn  
+**Web & Deployment:** React, Firebase, Streamlit  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+
+---
+
+## 📌 Featured Projects
+🔹 **Movie Recommendation System** – Content-based recommender using cosine similarity  
+🔹 **Intent-Based Chatbot** – NLP chatbot trained on custom intent data  
+🔹 **Cloudinary Media App** – Web app for media upload, preview & management  
+
+*(Links added in pinned repositories)*
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suyashh19&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Suyashh19&theme=tokyonight)
