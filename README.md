@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Suyash Patil 
+# 🚀 Hi, I'm Suyash Sandip Patil 
 ### Artificial Intelligence & Machine Learning Undergraduate
 *“Building systems to understand them.”*
 
