@@ -36,8 +36,7 @@
 #### 💸 Expense Tracker (Node.js)
 > **Problem:** Difficulty tracking and managing daily expenses efficiently.  
 > **Solution:** Built a full-stack expense management application with secure authentication and real-time data handling.  
-> - Firebase backend & authentication  
-> [**View Project**](#)
+> [**View Live App**](#) | [**View Project**](#)
 
 
 ---
