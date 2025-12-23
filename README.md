@@ -33,6 +33,13 @@
 > **Solution:** Streamlined media lifecycle (upload, preview, auth) using React & Clerk.  
 > [**View Live App**](https://media-vault-omega.vercel.app/sign-in) | [**Source Code**](https://github.com/Suyashh19/media-vault)
 
+#### 💸 Expense Tracker (Node.js)
+> **Problem:** Difficulty tracking and managing daily expenses efficiently.  
+> **Solution:** Built a full-stack expense management application with secure authentication and real-time data handling.  
+> - Firebase backend & authentication  
+> [**View Project**](#)
+
+
 ---
 
 ### 📊 Performance Metrics
