@@ -23,6 +23,11 @@
 
 ### 🌟 Featured Projects
 
+#### 💸 Expense Tracker (Node.js)
+> **Problem:** Difficulty tracking and managing daily expenses efficiently.  
+> **Solution:** Built a full-stack expense management application with secure authentication and real-time data handling.  
+> [**View Live App**](https://expense-tracker-1869c.web.app/dashboard) | [**View Project**](https://github.com/Suyashh19/EXPENCE-TRACKER)
+
 #### 🎬 Movie Recommendation System
 > **Problem:** High search friction for users.  
 > **Solution:** Built a content-based engine using **Cosine Similarity** for instant discovery.  
@@ -32,12 +37,6 @@
 > **Problem:** Fragmented media management.  
 > **Solution:** Streamlined media lifecycle (upload, preview, auth) using React & Clerk.  
 > [**View Live App**](https://media-vault-omega.vercel.app/sign-in) | [**Source Code**](https://github.com/Suyashh19/media-vault)
-
-#### 💸 Expense Tracker (Node.js)
-> **Problem:** Difficulty tracking and managing daily expenses efficiently.  
-> **Solution:** Built a full-stack expense management application with secure authentication and real-time data handling.  
-> [**View Live App**](#) | [**View Project**](#)
-
 
 ---
 
