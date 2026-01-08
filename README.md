@@ -31,12 +31,12 @@
 #### 🎬 Movie Recommendation System
 > **Problem:** High search friction for users.  
 > **Solution:** Built a content-based engine using **Cosine Similarity** for instant discovery.  
-> [**View Live App**](https://movie-recommender-app-hk9zssrecgokfqokvtyv3b4hp.streamlit.app/) | [**Source Code**](https://github.com/Suyashh19/movie-recommender)
+> [**View Live App**](https://movie-recommender-app-hk9zssrecgokfqokvtyv3b4hp.streamlit.app/) | [**Source Code**](https://github.com/Suyashh19/Movie-Recommender-App)
 
 #### ☁️ Cloudinary SaaS Media Vault
 > **Problem:** Fragmented media management.  
 > **Solution:** Streamlined media lifecycle (upload, preview, auth) using React & Clerk.  
-> [**View Live App**](https://media-vault-omega.vercel.app/sign-in) | [**Source Code**](https://github.com/Suyashh19/media-vault)
+> [**View Live App**](https://media-vault-omega.vercel.app/sign-in) | [**Source Code**](https://github.com/Suyashh19/ClOUDINARY-SAAS)
 
 ---
 
