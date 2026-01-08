@@ -40,16 +40,8 @@
 
 ---
 
-### 📊 Performance Metrics
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suyashh19&theme=tokyo-night&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyashh19&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashh19&layout=compact&theme=tokyonight&hide_langs=html,css" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Suyashh19&theme=tokyonight" width="100%"/>
-</p>
 
 ---
 
