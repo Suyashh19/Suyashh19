@@ -29,7 +29,7 @@
 
 ### 🌟 Featured Projects
 
-#### 💸 Expense Tracker (Node.js)
+#### 💸 Expense Tracker
 > **Problem:** Difficulty tracking and managing daily expenses efficiently.  
 > **Solution:** Built a full-stack expense management application with secure authentication and real-time data handling.  
 > [**View Live App**](https://expense-tracker-1869c.web.app/dashboard) | [**View Project**](https://github.com/Suyashh19/EXPENCE-TRACKER)
