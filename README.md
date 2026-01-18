@@ -34,17 +34,29 @@
 > **Solution:** Built a full-stack expense management application with secure authentication and real-time data handling.  
 > [**View Live App**](https://expense-tracker-1869c.web.app/dashboard) | [**View Project**](https://github.com/Suyashh19/EXPENCE-TRACKER)
 
+---
+
 #### 🎬 Movie Recommendation System
-> **Problem:** High search friction for users.  
-> **Solution:** Built a content-based engine using **Cosine Similarity** for instant discovery.  
+> **Problem:** High search friction for users when discovering relevant movies.  
+> **Solution:** Built a content-based recommendation engine using **Cosine Similarity** to suggest movies based on user preferences.  
 > [**View Live App**](https://movie-recommender-app-hk9zssrecgokfqokvtyv3b4hp.streamlit.app/) | [**Source Code**](https://github.com/Suyashh19/Movie-Recommender-App)
 
+---
+
+#### 🤖 Intent-Based Chatbot (Machine Learning)
+> **Problem:** Need for structured command and intent recognition in chat-based systems.  
+> **Solution:** Engineered an **intent-based chatbot** using **TF-IDF vectorization** and **Scikit-learn classification**, achieving **~92% intent recognition accuracy** on a custom dataset. Deployed as a web application using Flask.  
+> [**View Live App**](https://intent-based-chatbot-inxg.onrender.com/) | [**Source Code**](https://github.com/Suyashh19/Intent-based-chatbot)
+
+---
+
 #### ☁️ Cloudinary SaaS Media Vault
-> **Problem:** Fragmented media management.  
-> **Solution:** Streamlined media lifecycle (upload, preview, auth) using React & Clerk.  
+> **Problem:** Fragmented and inefficient media management workflows.  
+> **Solution:** Built a SaaS media vault to handle upload, preview, and access control using **React**, **Cloudinary**, and **Clerk authentication**.  
 > [**View Live App**](https://media-vault-omega.vercel.app/sign-in) | [**Source Code**](https://github.com/Suyashh19/ClOUDINARY-SAAS)
 
 ---
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suyashh19&theme=tokyo-night&hide_border=true)
 
