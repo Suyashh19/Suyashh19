@@ -3,12 +3,14 @@
 *“Building systems to understand them.”*
 
 <p align="left">
-<a href="https://portfolio-suyashh19s-projects.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <a href="https://portfolio-suyashh19s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0B0F14" />
+  </a>
 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0B5ED7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B0F14" />
 </p>
+
+
 
 ---
 
